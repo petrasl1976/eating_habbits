@@ -8,9 +8,9 @@ usage () {
 	echo "   -s   - step of y ruller. Default - 30 min"
 	echo "   -w   - wrap position. Default - terminal resolution"
 	echo
-	echo "My intend idea was to visualize my eating habbits. Therefore I take photo of each my snack, lunch, ..."
+	echo "My intend was to visualize my eating habbits. I take a photo of each my snack, lunch, ..."
 	echo "After a week or so i run this script against those photos and get simple chart."
-	echo "It will allow to se eating irregularities, dispersion during the day."
+	echo "It will allow to se eating irregularities, dispersion during the day, eating window."
 	exit
 }
 
